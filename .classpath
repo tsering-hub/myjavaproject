@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-3d-demos-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-jai-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/collections-generic-4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

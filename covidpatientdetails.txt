@@ -1,0 +1,17 @@
+4,Nima,Jhapa,12/12/2021,null,2021/09/30
+5,Ram,Kapan,13/12/2021,null,2021/09/30
+7,prassanna,kapan,null,12/21/2021,2021/09/30
+9,rijwol,Banepa,null,12/11/2021,2021/09/30
+10,tsering,Kapan,12/13/2021,null,2021/09/30
+11,rohit,Dillibazar,null,12/12/2021,2021/09/30
+12,Pema,Boudha,null,16/10/2021,2021/10/04
+13,Thilen,Chabahil,10/09/2021,null,2021/10/04
+14,Ngwang ,Tusal,null,19/09/2021,2021/10/04
+15,Aaron,Bhaktapur,null,11/09/2021,2021/10/04
+16,Sam,Bhaktapur,09/09/2021,null,2021/10/04
+17,Ashok,Kalimati,08/08/2021,null,2021/10/04
+18,Chirag,Sundarijal,07/08/2021,null,2021/10/04
+19,Bimal,Narayantar,06/09/2021,null,2021/10/04
+20,Lakpa,Boudha,null,11/09/2021,2021/10/04
+21,Doma,Narayantar,null,09/08/2021,2021/10/04
+22,Nuru,Chabahil,null,02/12/2021,2021/10/04
